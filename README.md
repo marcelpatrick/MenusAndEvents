@@ -27,8 +27,11 @@
   - Remove invoker when game is finished
  
 - FrenchFries.cpp
-  - On BEginPlay, add this actor as the invoker of the event in the event manager
+  - On BeginPlay, add this actor as the invoker of the event in the event manager
     - find all acteors with tag event manager
     - save it to and event manager actor variable
     - Add points added invoker function to this event manager variable
     - save the confifuration data
+
+  ## Burguer actor
+- Invoker of the game over event
