@@ -15,4 +15,4 @@
   - Declare an array of the actors of the type that calls game over
   - Map each of these actors to their delegates
   - Declare functions to add and remove points added event invoker and listener, game over event invoker and listener.
-- EventManager.cpp
+- EventManager.cpp.
